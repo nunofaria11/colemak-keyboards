@@ -68,6 +68,9 @@ xkb_symbols "pt-tarmak5" {
 ## Windows installers
 Find the windows installers in the `windows` directory.
 
+## MacOS installer
+Find the mac OS installers in the `mac` directory (created with [Ukelele](https://software.sil.org/ukelele/)).
+
 ---
 #### Sources
 - https://help.ubuntu.com/community/Custom%20keyboard%20layout%20definitions
